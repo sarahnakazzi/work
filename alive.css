@@ -1,0 +1,47 @@
+* {
+    background-color: rgb(208, 247, 193);
+    border-radius: 4em;
+    margin: 10px;
+    text-align: center;
+
+}
+h4 {
+    color: rgb(36, 240, 36);
+    font-weight: normal;
+    font: Arial;
+}
+h2, h3 {
+    color: rgb(7, 24, 7);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 180%;
+}
+
+h1 {
+    color: rgb(128, 212, 18);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: ultra bolder;
+    font-size: 250%;
+}
+
+div {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
+p {
+    color:rgb(7, 24, 7);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a {
+    color: rgb(5, 187, 35);
+    text-decoration-style: none;
+    text-decoration: none;
+}
+a:hover {
+    color:rgb(2, 83, 16);
+}
